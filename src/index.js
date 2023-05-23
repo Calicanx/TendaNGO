@@ -2,10 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import Hello from './Hello';
-import Class from './Class';
 import TendaNGO from './Tenda/TendaNGO';
-import DevPortfolio from './DevPortfolio/DevPortfolio';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
